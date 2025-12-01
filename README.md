@@ -1,0 +1,1 @@
+This Repo contains the SQL Query files which can be used to perform comparison of data present in two CSV files namely the CSV file Imported into the system and the file exported from the system after the import is completed.
